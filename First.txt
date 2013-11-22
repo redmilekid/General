@@ -1,4 +1,12 @@
-The night of the year
-Fight is tranegeled
-Pease of wold
-lll
+Hello Friend!
+This is the first document.
+Minimalize information.
+ 
+Backups.txt - All info about a backups.
+ 
+/*
+HDD 0: 298Gb - D:298 Gb
+HDD 1: 149Gb - C:78 Gb & F:(E:)65 Gb
+Панель управления - Администирование - Упраление компьютером - Управление дисками
+20.11.2013 
+*/
